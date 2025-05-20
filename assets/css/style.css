@@ -14,6 +14,7 @@
 /* Global Styles */
 body {
     font-family: var(--primary-font);
+    padding-top: 57.64px; /*Pushes body down to avoid navbar overlap*/
 }
 
 h1,
